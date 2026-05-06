@@ -1,7 +1,7 @@
 <div align="center">
   <h1>🔎 Шерлок Поиск: Искусство OSINT аналитики</h1>
   <p><b>Быстрый и точный поиск данных по цифровым следам</b></p>
-  <a href="https://serlockbot.ru/"><img src="https://img.shields.io/badge/Модуль-Поиск-orange?style=for-the-badge" alt="Search"></a>
+  <a href="https://serlock-bot.org/"><img src="https://img.shields.io/badge/Модуль-Поиск-orange?style=for-the-badge" alt="Search"></a>
 </div>
 
 ## 📖 Введение в "Шерлок Поиск"
@@ -35,7 +35,7 @@
 
 Начать пользоваться модулем "Шерлок Поиск" очень просто:
 
-1. Откройте наш сайт: [**Официальный сайт Шерлок Поиск**](https://serlockbot.ru/)
+1. Откройте наш сайт: [**Официальный сайт Шерлок Поиск**](https://serlock-bot.org/)
 2. Нажмите на кнопку запуска бота в Telegram.
 3. Введите интересующий вас номер, email или никнейм.
 4. Наша система **шерлок поиск** мгновенно сформирует подробный отчет.
